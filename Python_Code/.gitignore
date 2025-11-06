@@ -1,0 +1,10 @@
+# Ignorar carpetas
+__pycache__/
+.vscode/
+.idea/
+
+# Ignorar archivos
+*.log
+*.env
+
+/capas/
